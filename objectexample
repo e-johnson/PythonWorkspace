@@ -1,0 +1,7 @@
+class BankAccount: 
+''' Class for Bank Account'''
+
+type = 'Normal Account'
+
+def __init__(self, name): 
+	
